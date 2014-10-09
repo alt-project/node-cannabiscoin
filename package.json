@@ -1,0 +1,13 @@
+{
+    "name": "node-cannabiscoin",
+    "version": "0.3.9",
+    "description": "CannabisCoin client",
+    "keywords": ["cannabiscoin"],
+    "repository": "git://github.org/esotericizm/node-cannabiscoin.git",
+    "author": "Esotericizm <esotericizm@cryptoservices.net",
+    "main": "lib/cannabiscoin.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
